@@ -1,2 +1,2 @@
 # BootStrap5.2
-Linkin_BootStrap5.2
+Linkin Clone page with BootStrap5.2
